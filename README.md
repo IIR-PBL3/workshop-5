@@ -1,2 +1,2 @@
-# workshop-4
-Materiały do Warsztatu 4: Standardy łączności bezprzewodowej 
+# workshop-5
+Materiały do Warsztatu 5: Standardy łączności bezprzewodowej 
